@@ -1,4 +1,4 @@
-You have stumbled upon another CS student. Currently studying my A levels. Project being the conebot-rust repository.
+You have stumbled upon another CS student. Currently studying my Batchelors in CS with year in industry. Project being the conebot-rust repository.
 
 As you might have noticed, Rust enthusiast.
 
